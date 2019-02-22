@@ -1,0 +1,52 @@
+{
+  "role_0": {
+    "id": "role_0",
+    "name": "女主",
+    "bodyPrefab": null
+  },
+  "role_1": {
+    "id": "role_1",
+    "name": "李琰",
+    "bodyPrefab": null
+  },
+  "role_2": {
+    "id": "role_2",
+    "name": "李桓",
+    "bodyPrefab": null
+  },
+  "role_3": {
+    "id": "role_3",
+    "name": "贺兰图",
+    "bodyPrefab": null
+  },
+  "role_4": {
+    "id": "role_4",
+    "name": "贺兰殊",
+    "bodyPrefab": null
+  },
+  "role_5": {
+    "id": "role_5",
+    "name": "薛嫔",
+    "bodyPrefab": null
+  },
+  "role_6": {
+    "id": "role_6",
+    "name": "泠妃",
+    "bodyPrefab": null
+  },
+  "role_7": {
+    "id": "role_7",
+    "name": "庄妃",
+    "bodyPrefab": null
+  },
+  "role_8": {
+    "id": "role_8",
+    "name": "??",
+    "bodyPrefab": null
+  },
+  "role_9": {
+    "id": "role_9",
+    "name": "采薇",
+    "bodyPrefab": null
+  }
+}

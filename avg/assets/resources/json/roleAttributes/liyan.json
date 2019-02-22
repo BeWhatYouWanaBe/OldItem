@@ -1,0 +1,71 @@
+{
+  "0": {
+    "id": "0",
+    "attrType": "string",
+    "value": "李琰",
+    "ranges": null
+  },
+  "1": {
+    "id": "1",
+    "attrType": "number",
+    "value": 0,
+    "ranges": [
+      0,
+      100
+    ]
+  },
+  "2": {
+    "id": "2",
+    "attrType": "number",
+    "value": 0,
+    "ranges": [
+      0,
+      1
+    ]
+  },
+  "3": {
+    "id": "3",
+    "attrType": "number",
+    "value": 0,
+    "ranges": [
+      0,
+      1
+    ]
+  },
+  "4": {
+    "id": "4",
+    "attrType": "number",
+    "value": 0,
+    "ranges": [
+      0,
+      1
+    ]
+  },
+  "5": {
+    "id": "5",
+    "attrType": "number",
+    "value": 0,
+    "ranges": [
+      0,
+      1
+    ]
+  },
+  "6": {
+    "id": "6",
+    "attrType": "number",
+    "value": 0,
+    "ranges": [
+      0,
+      1
+    ]
+  },
+  "7": {
+    "id": "7",
+    "attrType": "number",
+    "value": 0,
+    "ranges": [
+      0,
+      1
+    ]
+  }
+}

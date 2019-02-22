@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3b60b128-a9cd-4cb1-bdba-c15b013e7bb8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "syfs_scene_courtSceneryNight_01": {
+      "ver": "1.0.3",
+      "uuid": "0bd0473f-62a8-400d-8269-670b63bf504d",
+      "rawTextureUuid": "3b60b128-a9cd-4cb1-bdba-c15b013e7bb8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1080,
+      "height": 1920,
+      "rawWidth": 1080,
+      "rawHeight": 1920,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

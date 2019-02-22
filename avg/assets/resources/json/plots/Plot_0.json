@@ -1,0 +1,400 @@
+{
+  "e0": {
+    "id": "e0",
+    "lastIndex": "e1",
+    "actionType": 200,
+    "actionArgs": {
+      "backgroundId": "0"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e1": {
+    "id": "e1",
+    "lastIndex": "e2",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_0",
+      "content": "所以我是被雷劈了吗",
+      "dialogPrefab": "cmpt_3",
+      "dialogPos": "2"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e2": {
+    "id": "e2",
+    "lastIndex": "e3",
+    "actionType": 101,
+    "actionArgs": {
+      "roleId": "role_8",
+      "x": 600,
+      "y": 500,
+      "isGray": true
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e3": {
+    "id": "e3",
+    "lastIndex": "e4",
+    "actionType": 105,
+    "actionArgs": {
+      "roleId": "role_8",
+      "time": 300
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e4": {
+    "id": "e4",
+    "lastIndex": "e5",
+    "actionType": 0,
+    "actionArgs": {
+      "time": 300
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e5": {
+    "id": "e5",
+    "lastIndex": "e6",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_8",
+      "content": "没错",
+      "dialogPrefab": "cmpt_4",
+      "dialogPos": "2"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e6": {
+    "id": "e6",
+    "lastIndex": "e7",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_8",
+      "content": "漆黑中恍惚能看到一个女子",
+      "dialogPrefab": "cmpt_2",
+      "dialogPos": "1"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e7": {
+    "id": "e7",
+    "lastIndex": "e8",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_8",
+      "content": "隔着水雾一般，不分明。",
+      "dialogPrefab": "cmpt_2",
+      "dialogPos": "1"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e8": {
+    "id": "e8",
+    "lastIndex": "e9",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_8",
+      "content": "我知道你现在在想什么。",
+      "dialogPrefab": "cmpt_4",
+      "dialogPos": "2"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e9": {
+    "id": "e9",
+    "lastIndex": "e10",
+    "actionType": 104,
+    "actionArgs": {
+      "roleId": "role_8",
+      "time": 300
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e10": {
+    "id": "e10",
+    "lastIndex": "e11",
+    "actionType": 0,
+    "actionArgs": {
+      "time": 300
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e11": {
+    "id": "e11",
+    "lastIndex": "e12",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_0",
+      "content": "哈？",
+      "dialogPrefab": "cmpt_3",
+      "dialogPos": "2"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e12": {
+    "id": "e12",
+    "lastIndex": "e13",
+    "actionType": 105,
+    "actionArgs": {
+      "roleId": "role_8",
+      "time": 300
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e13": {
+    "id": "e13",
+    "lastIndex": "e14",
+    "actionType": 0,
+    "actionArgs": {
+      "time": 300
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e14": {
+    "id": "e14",
+    "lastIndex": "e15",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_8",
+      "content": "你回不去了，用我的身体，完成我的心愿，或许你可以回去。",
+      "dialogPrefab": "cmpt_4",
+      "dialogPos": "2"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e15": {
+    "id": "e15",
+    "lastIndex": "e16",
+    "actionType": 104,
+    "actionArgs": {
+      "roleId": "role_8",
+      "time": 300
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e16": {
+    "id": "e16",
+    "lastIndex": "e17",
+    "actionType": 0,
+    "actionArgs": {
+      "time": 300
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e17": {
+    "id": "e17",
+    "lastIndex": "e18",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_0",
+      "content": "哈？",
+      "dialogPrefab": "cmpt_3",
+      "dialogPos": "2"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e18": {
+    "id": "e18",
+    "lastIndex": "e19",
+    "actionType": 105,
+    "actionArgs": {
+      "roleId": "role_8",
+      "time": 300
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e19": {
+    "id": "e19",
+    "lastIndex": "e20",
+    "actionType": 0,
+    "actionArgs": {
+      "time": 300
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e20": {
+    "id": "e20",
+    "lastIndex": "e21",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_8",
+      "content": "杀了<color=YELLOW>李琰</>。",
+      "dialogPrefab": "cmpt_4",
+      "dialogPos": "2"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e21": {
+    "id": "e21",
+    "lastIndex": "e22",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_8",
+      "content": "如果你想离开这里的话。",
+      "dialogPrefab": "cmpt_4",
+      "dialogPos": "2"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e22": {
+    "id": "e22",
+    "lastIndex": "e23",
+    "actionType": 104,
+    "actionArgs": {
+      "roleId": "role_8",
+      "time": 300
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e23": {
+    "id": "e23",
+    "lastIndex": "e24",
+    "actionType": 0,
+    "actionArgs": {
+      "time": 300
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e24": {
+    "id": "e24",
+    "lastIndex": "e25",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_0",
+      "content": "我不懂你的意思诶……",
+      "dialogPrefab": "cmpt_3",
+      "dialogPos": "2"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e25": {
+    "id": "e25",
+    "lastIndex": "e26",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_0",
+      "content": "对了，你是……",
+      "dialogPrefab": "cmpt_3",
+      "dialogPos": "2"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e26": {
+    "id": "e26",
+    "lastIndex": "e27",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_8",
+      "content": "这个朦朦胧胧的女声，跟你自己的声音，竟然有几分相似。",
+      "dialogPrefab": "cmpt_2",
+      "dialogPos": "1"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e27": {
+    "id": "e27",
+    "lastIndex": "e28",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_8",
+      "content": "可是不等你问出口，只觉得一阵眩晕之感袭来。",
+      "dialogPrefab": "cmpt_2",
+      "dialogPos": "1"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e28": {
+    "id": "e28",
+    "lastIndex": "e29",
+    "actionType": 105,
+    "actionArgs": {
+      "roleId": "role_8",
+      "time": 300
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e29": {
+    "id": "e29",
+    "lastIndex": "e30",
+    "actionType": 0,
+    "actionArgs": {
+      "time": 300
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e30": {
+    "id": "e30",
+    "lastIndex": "e31",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_8",
+      "content": "你该醒了。",
+      "dialogPrefab": "cmpt_4",
+      "dialogPos": "2"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e31": {
+    "id": "e31",
+    "lastIndex": "e32",
+    "actionType": 102,
+    "actionArgs": {
+      "roleId": "role_8"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e32": {
+    "id": "e32",
+    "lastIndex": "e33",
+    "actionType": 100,
+    "actionArgs": {
+      "senderId": "role_8",
+      "content": "女子的声音渐渐飘远，取而代之的是……",
+      "dialogPrefab": "cmpt_2",
+      "dialogPos": "1"
+    },
+    "conditionList": null,
+    "conditionType": null
+  },
+  "e33": {
+    "id": "e33",
+    "lastIndex": "e34",
+    "actionType": 200,
+    "actionArgs": {
+      "backgroundId": "0"
+    },
+    "conditionList": null,
+    "conditionType": null
+  }
+}

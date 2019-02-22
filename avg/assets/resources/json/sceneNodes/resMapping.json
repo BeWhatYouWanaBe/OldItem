@@ -1,0 +1,132 @@
+{
+  "role_0": {
+    "id": "role_0",
+    "resUrl": "prefab/role/role_0_prefab",
+    "resType": "prefab"
+  },
+  "role_1": {
+    "id": "role_1",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_2": {
+    "id": "role_2",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_3": {
+    "id": "role_3",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_4": {
+    "id": "role_4",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_5": {
+    "id": "role_5",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_6": {
+    "id": "role_6",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_7": {
+    "id": "role_7",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_8": {
+    "id": "role_8",
+    "resUrl": "prefab/role/role_0_prefab",
+    "resType": "prefab"
+  },
+  "role_9": {
+    "id": "role_9",
+    "resUrl": "prefab/role/role_9_prefab",
+    "resType": "prefab"
+  },
+  "role_10": {
+    "id": "role_10",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_11": {
+    "id": "role_11",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_12": {
+    "id": "role_12",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_13": {
+    "id": "role_13",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_14": {
+    "id": "role_14",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_15": {
+    "id": "role_15",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_16": {
+    "id": "role_16",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_17": {
+    "id": "role_17",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_18": {
+    "id": "role_18",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_19": {
+    "id": "role_19",
+    "resUrl": null,
+    "resType": null
+  },
+  "role_20": {
+    "id": "role_20",
+    "resUrl": null,
+    "resType": null
+  },
+  "cmpt_0": {
+    "id": "cmpt_0",
+    "resUrl": "prefab/component/choosePrefab",
+    "resType": "prefab"
+  },
+  "cmpt_1": {
+    "id": "cmpt_1",
+    "resUrl": "prefab/component/selectPrefab",
+    "resType": "prefab"
+  },
+  "cmpt_2": {
+    "id": "cmpt_2",
+    "resUrl": "prefab/NarrationDialogPrefab",
+    "resType": "prefab"
+  },
+  "cmpt_3": {
+    "id": "cmpt_3",
+    "resUrl": "prefab/MainPlotDialogPrefab",
+    "resType": "prefab"
+  },
+  "cmpt_4": {
+    "id": "cmpt_4",
+    "resUrl": "prefab/PlotDialogPrefab",
+    "resType": "prefab"
+  }
+}

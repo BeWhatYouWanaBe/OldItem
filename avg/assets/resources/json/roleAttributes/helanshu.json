@@ -1,0 +1,26 @@
+{
+  "0": {
+    "id": "0",
+    "attrType": "string",
+    "value": "贺兰殊",
+    "ranges": null
+  },
+  "1": {
+    "id": "1",
+    "attrType": "number",
+    "value": 50,
+    "ranges": [
+      0,
+      100
+    ]
+  },
+  "2": {
+    "id": "2",
+    "attrType": "number",
+    "value": 0,
+    "ranges": [
+      0,
+      1
+    ]
+  }
+}
