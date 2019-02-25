@@ -1,0 +1,4 @@
+table = {"q", "w", "e"}
+for k, v, ipairs do 
+  print(k, v);
+end
